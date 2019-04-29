@@ -4,6 +4,8 @@ of mosquito-Wolbachia dynamics developed in Hancock et al. 2016,
 "Predicting Wolbachia invasion dynamics in Aedes aegypti populations using
 models of density-dependent demographic traits", BMC Biology.
 
+Also available on Figshare: doi: 10.6084/m9.figshare.3980472
+
 To run gyp_sim use the command gyp_sim.exe<gyp_sim_inits.txt
 The file gyp_sim_inits.txt contains the following inputs:
 
